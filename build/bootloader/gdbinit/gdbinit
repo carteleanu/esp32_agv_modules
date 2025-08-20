@@ -1,0 +1,2 @@
+source C:/Users/ianat/esp_projects/esp32_agv_modules/build/bootloader/gdbinit/symbols
+source C:/Users/ianat/esp_projects/esp32_agv_modules/build/bootloader/gdbinit/connect
